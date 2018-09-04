@@ -17,5 +17,7 @@ end
 
 
 def move(board,index,fill="X")
+  board[index]=" #{fill} "
+
 
 end
