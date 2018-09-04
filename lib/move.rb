@@ -16,6 +16,6 @@ end
 
 
 
-def move
+def move(board,index,fill="X")
 
 end
